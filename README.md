@@ -1,1 +1,1 @@
-# Latesty-Bot
+# NewslyBot12
